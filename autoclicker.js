@@ -1,2 +1,1 @@
-dvbcvdsfs
-jvdsb
+document.write("JAVASCRIPT LOADED")
