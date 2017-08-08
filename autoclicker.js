@@ -1,1 +1,1 @@
-document.write("JAVASCRIPT LOADED")
+document.write("JAVASCRIPT LOADED");
